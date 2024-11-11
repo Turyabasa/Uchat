@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Tangerine");
+@import url("https://fonts.googleapis.com/css2?family=Tangerine");
+/* @import url('https://fonts.googleapis.com/css2?family=Teko */
 :host {
     font-family: 'Tangerine', serif;
 }
