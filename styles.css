@@ -35,15 +35,10 @@
   padding: 0;
 }
 
-html, body {
-  background: #eaedf2;
-  font-family: 'Roboto', sans-serif;
-}
-
 .vfrc-launcher {
   width: 65px;
   height: 65px;
-  background: #2cb3f0;
+  background: #13410C;
   bottom: 0;
   border-radius: 50%;
   left: 0;
