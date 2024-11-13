@@ -50,7 +50,7 @@ html, body {
 }
 
 .vfrc-launcher {
-  position: absolute;
+  position: fixed;
   width: 65px;
   height: 65px;
   background: #2cb3f0;
