@@ -40,17 +40,7 @@ html, body {
   font-family: 'Roboto', sans-serif;
 }
 
-.floating-container {
-  position: fixed;
-  width: 100px;
-  height: 100px;
-  bottom: 0;
-  right: 0;
-  margin: 35px 25px;
-}
-
 .vfrc-launcher {
-  position: fixed;
   width: 65px;
   height: 65px;
   background: #2cb3f0;
